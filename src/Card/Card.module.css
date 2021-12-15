@@ -1,0 +1,19 @@
+
+.card{
+    width: 350px;
+    background: rgb(245,247,249);
+    border-radius: 10px;
+}
+
+.text{
+    padding: 20px;
+    text-align: center;
+    line-height: 30px;
+}
+
+button{
+    background: brown;
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: white;
+}
